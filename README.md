@@ -12,3 +12,5 @@ Commit test 4. Same as 3.
 Commit test 5. Testing email.
 
 Commit test 6. Testing GPG Commit
+
+Commit test 7. Trying signing again.
